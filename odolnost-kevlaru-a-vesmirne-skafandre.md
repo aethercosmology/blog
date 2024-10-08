@@ -1,8 +1,8 @@
-V tomto článku preskúmame unikátne vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch. Zameriame sa na jeho vysokú pevnosť a húževnatosť, ktoré ho robia ideálnym materiálom na ochranu pred rôznymi hrozbami. Zistíme, ako sú tieto materiály navrhnuté na ochranu astronautov a ako ich odolnosť prispieva k bezpečnosti v extrémnych podmienkach.
+Preskúmame vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch. Zameriame sa na jeho vysokú pevnosť a húževnatosť, ktoré ho robia ideálnym materiálom na ochranu pred rôznymi hrozbami. Zistíme, ako sú tieto materiály navrhnuté na ochranu astronautov a ako ich odolnosť prispieva k bezpečnosti v extrémnych podmienkach.
 
 ### Tabuľka, ktorá zahŕňa typ Kevlaru a hrúbku Kevlarovej vrstvy potrebnej na ochranu:
 
-| **Úroveň ochrany (NIJ)** | **Typ guličky**          | **Rýchlosť guličky (m/s)** | **Raza guličky (J)** | **Typ Kevlaru**        | **Hrúbka Kevlaru (mm)**        |
+| **Úroveň ochrany (NIJ)** | **Typ náboja**          | **Rýchlosť náboja (m/s)** | **Náboj ráže (J)** | **Typ Kevlaru**        | **Hrúbka Kevlaru (mm)**        |
 |--------------------------|--------------------------|----------------------------|----------------------|-------------------------|---------------------------------|
 | **Level IIA**            | 9mm Luger                | až 325                     | približne 124        | Kevlar 29 alebo 49      | 12 - 15                         |
 | **Level II**             | .357 Magnum              | až 350                     | približne 200        | Kevlar 29 alebo 49      | 15 - 20                         |
@@ -19,7 +19,7 @@ V tomto článku preskúmame unikátne vlastnosti Kevlaru a jeho aplikácie vo v
 
 ### Tabuľka s hrúbkou Kevlaru, rýchlosťou guličky, razou guličky a veľkosťou guličky vedľa seba:
 
-| **Úroveň ochrany (NIJ)** | **Typ guličky**          | **Rýchlosť guličky (m/s)** | **Raza guličky (J)** | **Veľkosť guličky** | **Hrúbka Kevlaru (mm)** |
+| **Úroveň ochrany (NIJ)** | **Typ náboja**          | **Rýchlosť náboja (m/s)** | **Náboj ráže (J)** | **Veľkosť náboja** | **Hrúbka Kevlaru (mm)** |
 |--------------------------|--------------------------|----------------------------|----------------------|----------------------|-------------------------|
 | **Level IIA**            | 9mm Luger                | až 325                     | približne 124        | 9 mm                 | 12 - 15                 |
 | **Level II**             | .357 Magnum              | až 350                     | približne 200        | 9 mm                 | 15 - 20                 |
