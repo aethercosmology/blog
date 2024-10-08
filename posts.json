@@ -1,11 +1,12 @@
-[
-  {
-    slug: 'odolnost-kevlaru-a-vesmirne-skafandre',
-    path: 'https://raw.githubusercontent.com/aethercosmology/blog/main/odolnost-kevlaru-a-vesmirne-skafandre.md',
-    image: 'https://supabase.aethercosmology.eu/storage/v1/object/public/blog/odolnost-kevlaru-a-vesmirne-skafandre.webp',
-    title: 'Odolnosť Kevlaru a vesmírne skafandre',
-    desc: 'Preskúmame vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch, vrátane jeho pevnosti, húževnatosti a odolnosti voči rôznym hrozbám.',
-    keywords:
-      'Kevlar, vesmírne skafandre, odolnosť, balistická ochrana, materiály pre ochranu, technológie vo vesmíre, húževnatosť a pevnosť',
-  },
-]
+{
+  "posts": [
+    {
+      "slug": "odolnost-kevlaru-a-vesmirne-skafandre",
+      "path": "https://raw.githubusercontent.com/aethercosmology/blog/main/odolnost-kevlaru-a-vesmirne-skafandre.md",
+      "image": "https://supabase.aethercosmology.eu/storage/v1/object/public/blog/odolnost-kevlaru-a-vesmirne-skafandre.webp",
+      "title": "Odolnosť Kevlaru a vesmírne skafandre",
+      "desc": "Preskúmame vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch, vrátane jeho pevnosti, húževnatosti a odolnosti voči rôznym hrozbám.",
+      "keywords": "Kevlar, vesmírne skafandre, odolnosť, balistická ochrana, materiály pre ochranu, technológie vo vesmíre, húževnatosť a pevnosť"
+    }
+  ]
+}
