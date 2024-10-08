@@ -17,7 +17,7 @@ Preskúmame vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch. Zam
 - **Hrúbka Kevlaru**: Uvedené hodnoty sú orientačné a môžu sa líšiť v závislosti od výrobcu a špecifických podmienok testovania.
 
 
-### Tabuľka s hrúbkou Kevlaru, rýchlosťou guličky, razou guličky a veľkosťou guličky vedľa seba:
+### Tabuľka s hrúbkou Kevlaru, rýchlosťou náboja, rážou náboja a veľkosťou náboja vedľa seba:
 
 | **Úroveň ochrany (NIJ)** | **Typ náboja**          | **Rýchlosť náboja (m/s)** | **Náboj ráže (J)** | **Veľkosť náboja** | **Hrúbka Kevlaru (mm)** |
 |--------------------------|--------------------------|----------------------------|----------------------|----------------------|-------------------------|
@@ -28,7 +28,7 @@ Preskúmame vlastnosti Kevlaru a jeho aplikácie vo vesmírnych skafandroch. Zam
 | **Level IV**             | 30-06 Springfield        | až 900                     | približne 3000      | 7.62 mm              | Kombinácia s keramickými plátmi |
 
 ### Poznámky:
-- **Veľkosť guličky**: Uvedené veľkosti sú priemerné priemery guličiek a môžu sa líšiť v závislosti od typu a výrobcu.
+- **Veľkosť náboja**: Uvedené veľkosti sú priemerné priemery nábojov a môžu sa líšiť v závislosti od typu a výrobcu.
 - **Hrúbka Kevlaru**: Uvedené hodnoty sú orientačné a môžu sa líšiť v závislosti od výrobcu a špecifických podmienok testovania.
 
 ### Tabuľka s prehľadom vývoja Kevlarových látok a ich použitia vo vesmírnych skafandroch od 50. rokov 20. storočia do súčasnosti, vrátane technológie, hrúbky a hraničných hodnôt rýchlosti nárazu predmetu:
