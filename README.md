@@ -27,4 +27,4 @@ Příspěvky blogu jsou uspořádány v jednotlivých souborech a složkách, kd
 | `` `kód` ``          | `<code>`             | Inline kód                |
 | `` ```kód``` ``      | `<pre><code>`        | Blok kódu                 |
 | `---`                 | `<hr>`               | Horizontálna čiara        |
-| `!youtube(title)[url]`| `<embed>`           | Embed youtube video       |
+| `!youtube[title](url)`| `<embed>`           | Embed youtube video       |
