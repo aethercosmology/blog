@@ -64,6 +64,32 @@ Michelsonův-Morleyho experiment, ačkoli se zdálo, že jeho výsledek je nulov
 Zpochybnil převládající teorie o éteru a připravil půdu pro Einsteinovu speciální teorii relativity, která potřebu luminiscenčního éteru zcela odmítla.  
 Zdůraznila význam přesného experimentování a kritické analýzy ve vědeckém bádání. I „neúspěšné“ experimenty mohou vést k převratným objevům v našem chápání vesmíru.
 
+# ČASTO KLADENÉ OTÁZKY: O relativním pohybu Země a světelného éteru
+
+### 1. Co měl Michelsonův-Morleyho experiment zjistit?
+Michelsonův-Morleyho experiment provedený v roce 1887 byl navržen tak, aby zjistil relativní pohyb Země a světelného éteru. Éter byl hypotetické médium, o němž se předpokládalo, že prostupuje celým prostorem a slouží jako nosič světelných vln. Cílem experimentu bylo prokázat nebo vyvrátit existenci tohoto éteru.
+
+### 2. Jak experiment probíhal?
+Experiment využíval interferometr, zařízení, které rozděluje paprsek světla a po průchodu rozdělených paprsků různými cestami je opět spojuje. Vědci očekávali, že pokud se Země pohybuje éterem, světelný paprsek putující ve směru pohybu Země bude mít jinou rychlost než paprsek putující kolmo na něj. Tento rozdíl rychlostí by se projevil jako posun interferenčních třásní vzniklých při rekombinaci.
+
+### 3. Jaké byly výsledky experimentu?
+Oproti očekávání Michelsonův-Morleyho experiment nezjistil žádný významný rozdíl v rychlosti světla bez ohledu na směr paprsku. Tento nulový výsledek znamenal, že Země se nepohybuje v nehybném éteru, což zpochybnilo tehdy převládající chápání světla a vesmíru.
+
+### 4. Jaké bylo Fresnelovo vysvětlení aberace a jak jej ovlivnily výsledky experimentu?
+Fresnel navrhl, že éter je částečně tažen průhlednými předměty, jako jsou dalekohledy naplněné vodou, což vysvětluje, proč aberace světla hvězd nebyla při pozorování takovým dalekohledem ovlivněna. Michelsonův-Morleyho experiment však toto vysvětlení vyvrátil tím, že naznačil neexistenci stacionárního éteru, který by Země přetahovala.
+
+### 5. Vyloučil experiment zcela jakýkoli relativní pohyb mezi Zemí a éterem?
+Přestože experiment nezjistil žádný významný relativní pohyb, nemohl definitivně vyloučit všechny možnosti. Výsledky naznačily, že relativní rychlost byla pravděpodobně menší než jedna šestina oběžných rychlostí Země a určitě menší než jedna čtvrtina.
+
+### 6. Byly navrženy alternativní teorie, které by vysvětlovaly výsledek experimentu?
+Ano, bylo navrženo několik alternativních teorií. Lorentz například navrhoval, že u objektů pohybujících se éterem může docházet ke kontrakci délky ve směru pohybu, což ruší očekávaný interferenční posun okrajů. Stokes navrhl, že by éter v blízkosti zemského povrchu mohl být vzhledem k planetě v klidu, ale tato myšlenka byla později považována za neslučitelnou s dalšími pozorováními.
+
+### 7. Navrhli vědci nějaké další experimenty nebo metody pro zkoumání této problematiky?
+Ano, v článku se navrhuje opakovat experiment v různých ročních obdobích, aby se zohlednily změny oběžných rychlostí Země. Kromě toho navrhují provést experiment ve větších výškách, protože se domnívají, že relativní pohyb by mohl být výraznější. V článku jsou také popsány alternativní metody zahrnující odrazy od pohybujících se povrchů a měření rychlosti světla bez návratu paprsku do výchozího bodu.
+
+### 8. Jaký byl dlouhodobý dopad Michelsonova-Morleyho experimentu?
+Michelsonův-Morleyho experiment je považován za jeden z nejdůležitějších experimentů v dějinách fyziky. Jeho nulový výsledek připravil půdu pro převratné teorie, jako je Einsteinova speciální teorie relativity, která se zcela zbavila potřeby éteru a způsobila převrat v našem chápání prostoru, času a gravitace.
+
 # Porozumění Michelson-Morleyho experimentu (1887) - Studijní příručka
 
 ### I. Shrnutí
